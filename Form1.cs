@@ -26,5 +26,15 @@ namespace WindowsFormsApp2
         {
             button1.Text = "Clicked!";
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
